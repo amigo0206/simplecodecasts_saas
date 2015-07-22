@@ -2,7 +2,7 @@
 
 Subscription-based web application
 
-http://amgadamer.com
+https://ide-hangout.herokuapp.com
 
 Things you may want to cover:
 
